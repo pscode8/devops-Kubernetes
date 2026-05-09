@@ -6,7 +6,7 @@ A professional, high-level mindmap and technical breakdown of Kubernetes compone
 
 ## 🗺️ High-Level Architecture Overview
 The Kubernetes ecosystem is logically divided into four primary layers. This structure ensures high availability and scalable workload management.
-![Kubernetes Architecture Diagram](devops-kubernetes-Architecture.png)
+![Kubernetes Architecture Diagram](devops-kubernetes -Architecture.png)
 | Layer | Primary Function |
 | :--- | :--- |
 | **Workload Management** | Defines *how* and *where* applications run (Deployments, StatefulSets). |
